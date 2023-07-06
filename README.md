@@ -4,7 +4,7 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/72811499-c622-4eab-8088-df861d57bbe1)
 
 ### Умножение матриц
-![image](https://github.com/mireashik/algebra_1sem/assets/123753819/31d61cf3-881b-4566-bcd3-790a89ce6442)
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/b330449d-b5b4-4e08-a3b8-f20bdfae176d)
 
 ### Определители
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/db6f861a-266b-4c52-a504-9056c1f4c423)
