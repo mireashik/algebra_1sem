@@ -16,3 +16,12 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/491a4858-4730-47fc-afec-1832c8ac4caf)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/de44e30d-3bc7-4673-9a43-1b9bb7d65119)
+
+### Вариант 2. Учебные субботы
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/7db137a8-50bb-4e89-be71-2198a22e31a3)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/0c9e4418-87b0-4d71-9c26-0fb8be89112b)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/7c372600-8745-44df-abba-9908f61b4e25)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/0f7225a7-6d19-4547-b769-266943f64681)
