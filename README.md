@@ -16,7 +16,7 @@
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/ec662e19-5694-487d-8d26-8774f4b6abe1)
 
-## Другие виды матриц
+## Обратная матрица
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/7cd2a29e-9220-4e78-ae7b-28d9943cfdb3)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/ec0c427e-7bb7-445a-af0f-15ec2b3f3313)
