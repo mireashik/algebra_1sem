@@ -20,5 +20,13 @@
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/ec0c427e-7bb7-445a-af0f-15ec2b3f3313)
 
+### Линейные зависимости, базис, ранг матриц
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/5726e2ea-6e6a-4681-b791-6e424abd63f9)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/073373ee-05f3-425f-b637-9c3c1f6563e6)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/709d333a-9edc-41cf-96ed-68ff9cedf571)
+
+
 ### Поверхности
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/55187a89-ed90-4ed5-8160-30128b627455)
