@@ -23,10 +23,11 @@
 ## Линейные зависимости, базис, ранг матриц
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/5726e2ea-6e6a-4681-b791-6e424abd63f9)
 
-### Ранг матрицы
+### Ранг матрицы (R)
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/1f045614-88f8-4b13-92af-540f281428b6)
 
-![image](https://github.com/mireashik/algebra_1sem/assets/123753819/709d333a-9edc-41cf-96ed-68ff9cedf571)
+### Вычисление ранга матрицы (R)
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/2397b691-ceb9-40ef-9151-1a7c711067a4)
 
 ### СЛАУ (типы систем уравнений)
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/cfc211ff-e0fd-4361-8b9f-bc36facf3334)
