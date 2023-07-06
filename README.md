@@ -33,6 +33,22 @@
 ### СЛАУ (типы систем уравнений)
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/cfc211ff-e0fd-4361-8b9f-bc36facf3334)
 
+## Матричные уравнения (методы решения матричных уравнений)
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/ca09edc2-5a1d-449e-adb9-0886fde6ea5e)
+
+### Формулы Крамера (Линейные уравнения)
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/57a48573-eac0-4dfe-8626-6bf6073f6163)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/f9e5c42f-6600-4dc8-bd63-71ec75612173)
+
+### Метод обратной матрицы
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/a8eb2ae7-7d4a-4bad-b587-345f216b5762)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/4505030d-e972-4a0a-b9e7-338bd153a33b)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/26ca419c-2de4-40d8-ae9b-f80dd943f148)
+
+
 
 ### Поверхности 2 рода (2 порядка)
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/55187a89-ed90-4ed5-8160-30128b627455)
