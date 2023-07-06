@@ -48,6 +48,11 @@
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/26ca419c-2de4-40d8-ae9b-f80dd943f148)
 
+### Метод Гаусса (СЛАУ)
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/17b3d0dd-3096-4a0b-bf7f-dcef90571a00)
+
+### Пример решений уравнений методом Гаусса
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/3603f838-378d-46f2-8697-3c904cff0707)
 
 
 ### Поверхности 2 рода (2 порядка)
