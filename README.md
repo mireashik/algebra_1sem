@@ -11,7 +11,8 @@
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/4405ea53-f0b4-49ad-bc4c-b6a2664c3805)
 
-![image](https://github.com/mireashik/algebra_1sem/assets/123753819/557c6962-be2a-4cc7-aa72-80dcfc6175be)
+### Свойства определителей
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/0c79e5b5-dba6-4e63-ba9f-096ce51a96e8)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/ec662e19-5694-487d-8d26-8774f4b6abe1)
 
