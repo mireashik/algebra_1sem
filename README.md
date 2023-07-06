@@ -9,6 +9,8 @@
 ### Определители
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/db6f861a-266b-4c52-a504-9056c1f4c423)
 
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/4405ea53-f0b4-49ad-bc4c-b6a2664c3805)
+
 ### Поверхности
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/55187a89-ed90-4ed5-8160-30128b627455)
 
