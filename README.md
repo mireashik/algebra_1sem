@@ -54,6 +54,14 @@
 ### Пример решений уравнений методом Гаусса
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/3603f838-378d-46f2-8697-3c904cff0707)
 
+# Векторы
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/c552f0b4-fa85-4cdb-a798-7cea3d6d05bf)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/e01c0d15-606d-49bc-a42d-0db2ca4acf9c)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/cd4ab388-1f88-4a75-9e4e-a7e9ac90ffb4)
+
+
 
 ### Поверхности 2 рода (2 порядка)
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/55187a89-ed90-4ed5-8160-30128b627455)
