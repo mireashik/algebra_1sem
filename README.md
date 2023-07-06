@@ -1,6 +1,5 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/4818390d-cece-48f9-99bf-0bbec8dec410)
 
-
 ## Матрицы (и их виды)
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/72811499-c622-4eab-8088-df861d57bbe1)
 
