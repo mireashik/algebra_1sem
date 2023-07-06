@@ -61,6 +61,7 @@
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/cd4ab388-1f88-4a75-9e4e-a7e9ac90ffb4)
 
+![234234234](https://github.com/mireashik/algebra_1sem/assets/123753819/d7f1bfe5-7be6-44f6-8dc2-7bd3505224cc)
 
 
 
