@@ -13,3 +13,5 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/d35e8c76-8130-485e-8b71-77854d9389bc)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/54353c07-33fe-43e1-bea9-1b8525b5c2ec)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/8f6def6d-36e4-4a5d-a37a-7903cb7b8a0b)
