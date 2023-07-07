@@ -19,3 +19,7 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/7d85b8c4-ed32-479f-b638-c8ec7f36e853)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/c35eb7a4-12ff-4be0-8d48-33cadbeae8ce)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/479fc64a-1545-43a7-80f7-357d9d9c8bef)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/126a00e6-5d92-4901-a4d4-f307b54b21ef)
