@@ -20,6 +20,8 @@
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/5d40a876-e98c-4d87-b227-314277ed70e6)
 
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/b6977f6e-c705-4ffd-96b6-894dff393311)
+
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/bde164b7-3a7f-4820-839a-8b559a8b3495)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/581a1a04-7b4d-4a42-95ba-e34b5244f364)
