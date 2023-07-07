@@ -17,3 +17,10 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/5d09c733-ce8f-4e75-a4ca-6f62c1f4b1ee)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/f7d74024-1ef3-4dce-bbea-7d8e71e72197)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/5d40a876-e98c-4d87-b227-314277ed70e6)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/bde164b7-3a7f-4820-839a-8b559a8b3495)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/581a1a04-7b4d-4a42-95ba-e34b5244f364)
+
