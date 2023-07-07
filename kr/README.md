@@ -73,3 +73,4 @@ https://math.semestr.ru/line/analytic-geometry.php
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/1a2a03bf-85b8-43a3-a929-a2ba647ece21)
 
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/be2fa5ba-8768-4790-a28e-c1044fad33d7)
