@@ -27,3 +27,5 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/581a1a04-7b4d-4a42-95ba-e34b5244f364)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/1cb527ec-83be-4965-8968-b05c20c3d1ef)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/96a96199-6ef6-4b6f-a8cf-625cedcace9d)
