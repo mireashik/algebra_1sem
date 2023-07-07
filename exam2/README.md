@@ -29,3 +29,18 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/1cb527ec-83be-4965-8968-b05c20c3d1ef)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/96a96199-6ef6-4b6f-a8cf-625cedcace9d)
+
+### Дистанционный вариант
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/5ceeb288-5e0b-4b5f-a1c1-a0f5ff2bf106)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/893b58df-3dac-4300-bbde-cb8c02ad5239)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/48b05609-4ba8-4069-bcdc-a17d86a1db0e)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/cc7f2fbc-a9a0-40cb-92ac-d083bc22378a)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/e6257beb-c064-4440-9e6d-cc70ad9db695)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/e7b94d92-defa-4289-b6ff-1e0017299621)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/1a171193-978c-4364-bb5e-019974f237dc)
