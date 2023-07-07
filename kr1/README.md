@@ -9,3 +9,5 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/9904ba92-097b-48de-b64c-679548c37a69)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/c0bccb00-05d8-4196-9a9e-b3cdf249bad1)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/d35e8c76-8130-485e-8b71-77854d9389bc)
