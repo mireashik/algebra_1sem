@@ -5,3 +5,5 @@
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/0291fd8d-a194-461f-b26e-7fc06f921a0e)
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/bbf858d6-47e5-4dce-9a21-28f42d450023)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/9904ba92-097b-48de-b64c-679548c37a69)
