@@ -43,3 +43,33 @@ https://ru.onlinemschool.com/math/assistance/vector/colinearity/
 
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/007d6c5d-f9bf-41c0-a601-d2ea5a806304)
 
+https://math.semestr.ru/line/analytic-geometry.php
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/9b044f51-040e-44f4-bfab-968e3dd666e5)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/0c743dd7-ad69-4b1e-96c2-7c46630f1ca6)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/a4123139-dc70-479f-a60e-1e53a728aaba)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/64fba5f3-6191-466e-95ca-256f246405f8)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/3f67b35c-a3e2-4cdc-8acf-6fed159f19e8)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/29fd5ec3-171d-45ba-a0ef-03810add768d)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/fd853a60-8672-443d-a8f8-5547950ace27)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/1df24cb4-07eb-4bb9-a691-ac54743fc5e5)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/87f77bec-47fc-4151-8240-60a27c9299b5)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/b40934fa-2b37-44e0-a2e6-c4e4766d8810)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/feca480e-1b2d-4a5d-9c7b-daa85fd1497d)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/4e6eee6c-cc9e-4c9d-8d75-f80c1aeb12e7)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/f41ab34c-4700-4ebd-b6b2-c131de712f92)
+
+![image](https://github.com/mireashik/algebra_1sem/assets/123753819/1a2a03bf-85b8-43a3-a929-a2ba647ece21)
+
