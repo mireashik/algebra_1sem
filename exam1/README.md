@@ -1,3 +1,6 @@
+- https://drive.google.com/drive/folders/17TVpKuDjf342c1rGgk9iXhKJZTyzH_vW
+- https://drive.google.com/drive/folders/1pmCmhTpRIk3CFjFZyg-pWBCJTNZwHtAG
+
 ### Вариант 1. Учебные субботы
 ![image](https://github.com/mireashik/algebra_1sem/assets/123753819/27dce295-9a82-41df-8a81-3513da83c277)
 
